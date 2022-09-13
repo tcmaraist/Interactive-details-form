@@ -1,0 +1,10 @@
+@import url(./vendors/normalize.css);
+
+@import url(./Blocks/Page/page.css);
+
+@import url(./blocks/Header/header.css);
+
+@import url(./blocks/Form/form.css);
+@import url(./blocks/Form/__input/Form__input.css);
+
+@import url(./blocks/Footer/Footer.css);
