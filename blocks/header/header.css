@@ -1,2 +1,7 @@
 .header {
+  margin: 0 auto;
+  min-height: 240px;
+  max-width: 375px;
+  display: grid;
+  background-image: url(../../images/bg-main-mobile.png);
 }
