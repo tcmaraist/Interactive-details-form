@@ -1,0 +1,6 @@
+.form__exp-group {
+  display: flex;
+  width: 152px;
+  height: 69px;
+  flex-direction: column;
+}

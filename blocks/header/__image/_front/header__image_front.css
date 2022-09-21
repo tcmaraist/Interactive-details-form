@@ -1,0 +1,6 @@
+.header__image_front {
+  position: relative;
+  top: -32px;
+  left: 16px;
+  z-index: 100000000000000000;
+}

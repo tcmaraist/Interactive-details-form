@@ -1,2 +1,12 @@
 .form__input {
+  padding: 11px 16px;
+  height: 45px;
+  width: 327px;
+  box-sizing: border-box;
+  border: 1px solid #dfdee0;
+  border-radius: 8px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22.97px;
+  color: #21092f;
 }

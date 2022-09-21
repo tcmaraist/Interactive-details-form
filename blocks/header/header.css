@@ -1,7 +1,9 @@
 .header {
   margin: 0 auto;
-  min-height: 240px;
+  height: 240px;
   max-width: 375px;
   display: grid;
+  background-color: white;
   background-image: url(../../images/bg-main-mobile.png);
+  z-index: -1;
 }
