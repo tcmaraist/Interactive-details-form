@@ -3,10 +3,15 @@
 
 @import url(../blocks/page/page.css);
 
-@import url(../blocks/Header/header.css);
+@import url(../blocks/header/header.css);
 @import url(../blocks/header/__image/header__image.css);
-@import url(../blocks/header/__image/_back/header__image_back.css);
-@import url(../blocks/header/__image/_front/header__image_front.css);
+@import url(../blocks/header/__image-back/header__image-back.css);
+@import url(../blocks/header/__image-cvc/header__image-cvc.css);
+@import url(../blocks/header/__image-front/header__image-front.css);
+@import url(../blocks/header/__image-logo/header__image-logo.css);
+@import url(../blocks/header/__image-number/__image-number.css);
+@import url(../blocks/header/__image-name/header__image-name.css);
+@import url(../blocks/header/__image-exp/header__image-exp.css);
 
 @import url(../blocks/button/button.css);
 
@@ -19,5 +24,10 @@
 @import url(../blocks/form/__input/_exp/form__input_exp.css);
 @import url(../blocks/form/__input/_cvc/form__input_cvc.css);
 @import url(../blocks/form/__button/form__button.css);
+
+@import url(../blocks/modal/modal.css);
+@import url(../blocks/modal/__logo/modal__logo.css);
+@import url(../blocks/modal/__title/modal__title.css);
+@import url(../blocks/modal/__info/modal__info.css);
 
 @import url(../blocks/footer/footer.css);

@@ -1,6 +1,7 @@
 .header__image {
   margin: 0;
   padding: 0;
-  max-width: 286px;
-  max-height: 157px;
+  width: 286px;
+  height: 157px;
+  border-radius: 8px;
 }

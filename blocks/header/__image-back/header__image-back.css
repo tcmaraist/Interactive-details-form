@@ -1,0 +1,11 @@
+.header__image-back {
+  padding: 0;
+  position: relative;
+  top: 32px;
+  right: 16px;
+  bottom: 51px;
+  left: 73px;
+  background-image: url(../../../images/bg-card-back.png);
+  object-fit: contain;
+  background-repeat: no-repeat;
+}

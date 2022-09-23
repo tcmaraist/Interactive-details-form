@@ -30,14 +30,15 @@
   <body>
     <div class="page">
       <div class="header">
-        <image
-          class="header__image header__image_back"
-          src="./images/bg-card-back.png"
-        />
-        <img
-          class="header__image header__image_front"
-          src="./images/bg-card-front.png"
-        />
+        <div class="header__image header__image-back">
+          <div class="header__image-cvc"></div>
+        </div>
+        <div class="header__image header__image-front">
+          <div class="header__image-logo"></div>
+          <div class="header__image-number">0000 0000 0000 0000</div>
+          <div class="header__image-name">Jane Appleseed</div>
+          <div class="header__image-exp">00/00</div>
+        </div>
       </div>
 
       <form class="form">
@@ -115,6 +116,12 @@
           Confirm
         </button>
       </form>
+
+      <div class="modal">
+        <img class="modal__logo" src="./images/icon-complete.svg" />
+        <h2 class="modal__title">THANK YOU!</h2>
+        <p class="modal__info">We've added your card details</p>
+      </div>
 
       <div class="footer">
         <p>

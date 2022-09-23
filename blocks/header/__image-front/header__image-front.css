@@ -1,6 +1,7 @@
-.header__image_front {
+.header__image-front {
   position: relative;
   top: -32px;
   left: 16px;
+  background-image: url(../../../images/bg-card-front.png);
   z-index: 100000000000000000;
 }
